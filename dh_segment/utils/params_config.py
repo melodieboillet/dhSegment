@@ -69,7 +69,7 @@ class VGG16ModelParams:
         False,
         False
     ]
-    CORRECTED_VERSION = None
+    CORRECT_VERSION = None
 
 
 class ResNetModelParams:
